@@ -1,8 +1,8 @@
-<h1 aligne="center">Welcome to my GitHub profile ! :D</h1>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVnMWptaXVvemlkeWtqMDIyeDZ5NXJtb3c1cjVuOGhpb3FxN2M2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6TMaaNJKIAX6/giphy.gif"/>
+<h1 align="center">Welcome to my GitHub profile ! :D</h1>
+<div align="center" ><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVnMWptaXVvemlkeWtqMDIyeDZ5NXJtb3c1cjVuOGhpb3FxN2M2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6TMaaNJKIAX6/giphy.gif"/></div>
 <div id="header" align="center">
   </div>
-  <div id="badges">
+  <div id="badges" align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Discord-Zakinane-gray.svg?logo=discord&logoColor=black" alt="Discord">
   </div>
   
@@ -24,6 +24,8 @@
 
 
 # 🤡 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zakinane&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakinane)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Zakinane&theme=dark&background=000000"/>
+  </br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakinane&theme=dark&background=000000"/>
+</div>

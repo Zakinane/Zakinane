@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub profile ! :D</h1>
-<div align="center" ><img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVnMWptaXVvemlkeWtqMDIyeDZ5NXJtb3c1cjVuOGhpb3FxN2M2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6TMaaNJKIAX6/giphy.gif](https://tenor.com/fr/view/rdr2-arthur-morgan-coffee-mug-cup-of-joe-gif-21639092)"/></div>
+<div align="center" ><img src="https://tenor.com/fr/view/rdr2-arthur-morgan-coffee-mug-cup-of-joe-gif-21639092"/></div>
 <div id="header" align="center">
   </div>
   <div id="badges" align="center">

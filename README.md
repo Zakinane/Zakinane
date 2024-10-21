@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile ! :D</h1>
-<div align="center" ><img src="https://tenor.com/bCXtM.gif">
+<div align="center" >
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 <div id="header" align="center">
   </div>
   <div id="badges" align="center">

@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub profile ! :D</h1>
-<div align="center" ><img src="https://tenor.com/fr/view/rdr2-arthur-morgan-coffee-mug-cup-of-joe-gif-21639092"/></div>
+<div align="center" ><div class="tenor-gif-embed" data-postid="21639092" data-share-method="host" data-aspect-ratio="1.88235" data-width="100%"><a href="https://tenor.com/view/rdr2-arthur-morgan-coffee-mug-cup-of-joe-gif-21639092">Rdr2 Arthur Morgan GIF</a>from <a href="https://tenor.com/search/rdr2-gifs">Rdr2 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <div id="header" align="center">
   </div>
   <div id="badges" align="center">

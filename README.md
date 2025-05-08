@@ -25,15 +25,22 @@
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows10" alt="Windows10" width="40" height="40">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows10" alt="Windows10" width="40" height="40">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="40" height="40">&nbsp;
+    <img src="https://github.com/user-attachments/assets/9b0e7380-6d7a-4e82-af27-b4c71ede3296" title="Aseprite" alt="Aseprite" width="40" height="40">&nbsp;
+    <img src="https://github.com/user-attachments/assets/e6485aec-b2d6-46a4-9253-4354cef88bec" title="Figma" alt="Figma" width="26" height="40">&nbsp;
+    <img src="https://github.com/user-attachments/assets/1c6c80fb-4232-4f36-aabb-38e57ac8bb7b" title="Obsidian" alt="Obsidian" width="40" height="40">&nbsp;
+  
+
+
 </div>
+
 
 
 # 🤡 My Stats :
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Zakinane&theme=dark&background=000000"/>
-  </br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakinane&theme=dark&background=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakinane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zakinane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
